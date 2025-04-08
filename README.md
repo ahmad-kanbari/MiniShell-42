@@ -1,6 +1,6 @@
 # **Minishell**
 
-Minishell is a Unix shell implementation developed as part of the 42 school curriculum. This project, undertaken collaboratively by **[Muna](https://github.com/anassajaanan)**, stands out due to its unique use of Recursive Descent Parsing, which serves as the foundation for robust command interpretation and execution.
+Minishell is a Unix shell implementation developed as part of the 42 school curriculum. This project, undertaken collaboratively by Micheal, stands out due to its unique use of Recursive Descent Parsing, which serves as the foundation for robust command interpretation and execution.
 
 ## **Table of Contents**
 
@@ -97,4 +97,4 @@ To install Minishell on your system, you'll need to follow these simple steps:
 
 ## **Contributing**
 
-Both [Me](https://github.com/anassajaanan) and [Muna](https://github.com/anassajaanan) welcome contributions to the Minishell project! If you have ideas for enhancements, bug fixes, or new features, please feel free to open an issue or submit a pull request. For substantial changes, we recommend initiating a discussion in the issue tracker before proceeding.
+We welcome contributions to the Minishell project! If you have ideas for enhancements, bug fixes, or new features, please feel free to open an issue or submit a pull request. For substantial changes, we recommend initiating a discussion in the issue tracker before proceeding.
